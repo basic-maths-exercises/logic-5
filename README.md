@@ -14,7 +14,7 @@ The truth value of the proposition above is determined from the truth values of 
 
 ![](disjunction.png)
 
-To complete the exercise you will need to use the ideas above to complete the function called `numberOutside`.  This function takes three arguments:
+__To complete the exercise you will need to use the ideas above to complete the function called `numberOutside`.__  This function takes three arguments:
 
 1. `data` - a numpy array containing a list of numbers
 2. `a` - a single integer  
